@@ -1,0 +1,3 @@
+D:/Users/sebuc/Documents/C++/Polimorfismo & Herencia Daniel/cmake-build-debug/CMakeFiles/FigurasPOO.dir
+D:/Users/sebuc/Documents/C++/Polimorfismo & Herencia Daniel/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/sebuc/Documents/C++/Polimorfismo & Herencia Daniel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
