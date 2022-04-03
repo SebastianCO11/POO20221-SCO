@@ -1,0 +1,3 @@
+D:/Users/sebuc/Documents/C++/Referencias y constantes/cmake-build-debug/CMakeFiles/Referencias_y_constantes.dir
+D:/Users/sebuc/Documents/C++/Referencias y constantes/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/sebuc/Documents/C++/Referencias y constantes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
